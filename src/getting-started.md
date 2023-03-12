@@ -7,7 +7,7 @@ pageInfo: false
 You need to install [Composer](https://getcomposer.org), open terminal and execute:
 
 ```bash
-composer create-project hansen/fluxphp my-app
+composer create-project fluxphp/fluxphp my-app
 ```
 
 Starting your project by running:
